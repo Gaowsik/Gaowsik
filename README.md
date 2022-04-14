@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gaowsik
-- 👀 I’m interested in Anddroid Native Development
+- 👀 I’m interested in Android Native Development
 - 🌱 I’m a final year computer science student
 
 
